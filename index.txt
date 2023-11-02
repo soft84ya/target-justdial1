@@ -1,0 +1,50 @@
+
+
+1. <!-- chek the bootsrap is working -->
+    <!-- <button class="btn btn-danger">danger</button> -->
+
+
+2.first u will check website layout 
+its a box or a full-width website
+
+                just dial 
+                what is justdial - just dial is a online directory
+
+
+3.just dial is a box website because the website show left and right space
+
+4. Google chrome extension
+    Measureit
+    colorZila
+
+5.first website starting bootsrap layout
+    ->Docs ->layout ->  container
+
+    container use in div tag because its website show gap left right 
+    blocking technique - jo kuch b banana pehle box ko bnao
+
+    jb aap bootsrap use kr rhe ho jitna ho ske css me code nhe likhna h jo code app likhna cha rhe ho
+    wo ho skta h bootstrap ke class se hojye
+
+    basic element of website
+    Header
+    Main
+    Footer
+
+    box banan h to 3 property hoti h width height background-color/border
+
+    jb bootstrap pr kaam kr rhe h to width kabhe kabhe dete h evn width kbhe nhe dete
+    height
+    background-color/border
+
+
+    when childeren get their  height remove the parent height
+
+
+    in this website header is fixed so go to bootsrap search position-> fixed top
+
+
+    mt-1.......mt-5  (margin top only 1 to 5)
+
+
+    just dial website is to responsive
